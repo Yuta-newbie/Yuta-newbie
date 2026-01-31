@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm Currently a BCA Student in University of Allahabad<br>I'm Looking for a cloud field job<br>I'm at intermediate level in java,C,dbms,mysql,aws<br>I'm a expert at python and ai <br>i'm looking for internship<br>My about:Tech-driven BCA student blending strong programming fundamentals with a growing<br>passion for cloud computing. Hands-on with C, C++, Python, and Java, actively building<br>skills across modern tech stacks and cloud services. Creative freelance video editor who<br>delivers scroll-stopping content, meets deadlines, and manages clients like a pro.<br>
+# About me:
+<br>Tech-driven BCA student blending strong programming fundamentals with a growing<br>passion for cloud computing. Hands-on with C, C++, Python, and Java, actively building<br>skills across modern tech stacks and cloud services. Creative freelance video editor who<br>delivers scroll-stopping content, meets deadlines, and manages clients like a pro.<br>
 
 
 ## 🌐 Socials:
